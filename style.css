@@ -1,0 +1,24 @@
+ul, li{
+    list-style: none;
+}
+.block{
+    border: 2px solid black;
+    width: 300px;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    background-color: black;
+}
+.items{
+    background-color: #26313a;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
